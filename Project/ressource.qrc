@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>rec/gameBoard.png</file>
+        <file>rec/button.jpg</file>
+        <file>rec/ball.jpg</file>
+        <file>rec/blackball.png</file>
+        <file>rec/balll.png</file>
+        <file>rec/menuBackground.png</file>
+        <file>rec/transparent.png</file>
+        <file>rec/playerVsComputer.png</file>
+        <file>rec/out.png</file>
+        <file>rec/playerVsplayer.png</file>
+        <file>rec/secondMenu.png</file>
+        <file>rec/thirdMenu.png</file>
+        <file>rec/simulation.png</file>
+        <file>rec/game.png</file>
+        <file>rec/balll.jpg</file>
+        <file>rec/easy.png</file>
+        <file>rec/medium.png</file>
+        <file>rec/hard.png</file>
+        <file>rec/dialogue.jpg</file>
+        <file>rec/blue1.jpg</file>
+        <file>simple.jpeg</file>
+    </qresource>
+</RCC>

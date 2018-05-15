@@ -1,0 +1,14 @@
+INPUT(
+./release/main.o
+./release/menu.o
+./release/gameplay.o
+./release/ball.o
+./release/balldown.o
+./release/board.o
+./release/ia.o
+./release/move.o
+./release/moc_menu.o
+./release/moc_gameplay.o
+./release/moc_balldown.o
+./release/qrc_ressource.o
+);
